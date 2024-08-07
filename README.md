@@ -1,4 +1,4 @@
-# Ola, pequeno projeto um tive como OBJETIVOS:
+# Ola, pequeno projeto onde possuí como OBJETIVOS:
 
 ## Desenvolver uma classe em C/C++ para representar uma lista duplamente encadeada e utilizá-la
 
